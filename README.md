@@ -9,3 +9,6 @@ Download the code and run it on Linux
 |-------|------------|
 | macchanger.py  | macchanger program to be run via the terminal | 
 | venv  | python environment  | 
+
+## Output
+![program output](output.png)
